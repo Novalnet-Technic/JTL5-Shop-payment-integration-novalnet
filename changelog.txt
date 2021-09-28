@@ -1,0 +1,7 @@
+*** Changelog ***
+
+= 1.0.1 - 2021.09.27 =
+* Fix 	- Compatibility for PHP version 8.0
+
+= 1.0.0 - 2021.06.08 =
+* Major version release: Entire restructure & optimization of the older version with usability, additional features, and customizations.
